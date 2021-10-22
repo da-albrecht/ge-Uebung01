@@ -8,3 +8,14 @@ and as a result is almost the same project.
 ## Table of Contents
 
 
+
+
+
+
+# Spielidee
+
+## HauptMechanik
+
+## Genre & Art Style
+
+## Mitarbeiter
