@@ -6,16 +6,3 @@ It was created by following the instructions from the
 and as a result is almost the same project.
 
 ## Table of Contents
-
-
-
-
-
-
-# Spielidee
-
-## HauptMechanik
-
-## Genre & Art Style
-
-## Mitarbeiter
